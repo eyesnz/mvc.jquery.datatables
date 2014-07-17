@@ -16,6 +16,11 @@ namespace Mvc.JQuery.Datatables.Example.Controllers
             return View();
         }
 
+        public ActionResult InitialSearch()
+        {
+            return View();
+        }
+
         public ActionResult JSUnitTests()
         {
             return View();
